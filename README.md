@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Rafael 👋
 
-<!--
-**RafaelCamposTXR/RafaelCamposTXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante entusiasta de computação e desenvolvimento de software com experiência em estágio, projetos freelance e diversos projetos pessoais.
 
-Here are some ideas to get you started:
+## 🚀 O que eu estou fazendo atualmente:
+- 📚 Explorando arquiteturas avançadas para aplicações **full-stack**, focando em **escalabilidade**, **performance** e **boas práticas de design de software**.   
+- 🔬 Iniciação científica em **inteligência artificial**, Estudando IA e como ela pode ser aplicada em sistemas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interesse em:
+- Desenvolvimento Full-Stack
+- Inteligência Artificial e Machine Learning
+- Automação de processos
+
+## 📫 Como me encontrar:
+- Email: rafaelcamteixeira@gmail.com
+- LinkedIn: [linkedin.com/in/rafaeldev](https://linkedin.com/in/rafaeldev)
