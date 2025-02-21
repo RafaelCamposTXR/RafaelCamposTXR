@@ -1,6 +1,6 @@
-🎯 Engenheiro de Software Full-Stack | 🤖 IA & Engenharia de Prompt | 🎓 Estudante de Engenharia de Computação
+## 🎯 Engenheiro de Software Full-Stack | 🤖 IA & Engenharia de Prompt | 🎓 Estudante de Engenharia de Computação
 
-## 🚀 O que eu estou fazendo atualmente:
+## 🚀 Projetos atuais:
   📚 Aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
   🔬 Pesquisando e experimentando com **inteligência artificial**, com uma Iniciação Científica concluída em Explicabilidade de Redes Neurais.  
 
