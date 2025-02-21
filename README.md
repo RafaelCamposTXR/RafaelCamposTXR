@@ -16,8 +16,7 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical&langs_count=10)
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaelCamposTXR&theme=radical&no-frame=true&title=commit,pullRequest,stars&column=3)
-
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaelCamposTXR&theme=radical&no-frame=true)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelCamposTXR&theme=radical)
 
