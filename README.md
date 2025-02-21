@@ -1,8 +1,8 @@
 🎯 Engenheiro de Software Full-Stack | 🤖 IA & Engenharia de Prompt | 🎓 Estudante de Engenharia de Computação
 
 ## 🚀 O que eu estou fazendo atualmente:
-- 📚 Aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
-- 🔬 Pesquisando e experimentando com **inteligência artificial**, com uma Iniciação Científica concluída em Explicabilidade de Redes Neurais.  
+  📚 Aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
+  🔬 Pesquisando e experimentando com **inteligência artificial**, com uma Iniciação Científica concluída em Explicabilidade de Redes Neurais.  
 
 ## 🌱 Interesse em:
 - Desenvolvimento Full-Stack
@@ -17,5 +17,4 @@
 
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaelCamposTXR&theme=radical&no-frame=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelCamposTXR&theme=radical)
 
