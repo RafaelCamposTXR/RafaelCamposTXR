@@ -1,4 +1,4 @@
-🚀 Engenheiro de Software Full-Stack | 🎯 IA & Engenharia de Prompt | 🔬 Estudante de Engenharia de Computação
+🚀 Engenheiro de Software Full-Stack | 🎯 IA & Engenharia de Prompt | 🎓 Estudante de Engenharia de Computação
 
 ## 🚀 O que eu estou fazendo atualmente:
 - 📚 Produzindo e aperfeiçoando arquiteturas para aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
@@ -12,7 +12,6 @@
 ## 📫 Como me encontrar:
 - Email: rafaelcamteixeira@gmail.com
 - LinkedIn: [https://linkedin.com/in/rafaeldev](https://www.linkedin.com/in/rafael-campos-teixeira-5576a1191/)
-
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical&langs_count=10)
 
