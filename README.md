@@ -16,4 +16,4 @@ Sou um estudante entusiasta de computação e desenvolvimento de software com ex
 - LinkedIn: [linkedin.com/in/rafaeldev](https://linkedin.com/in/rafaeldev)
 
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical)
