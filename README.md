@@ -20,5 +20,5 @@ Sou um estudante entusiasta de computação e desenvolvimento de software com ex
 
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaelCamposTXR&theme=radical&no-frame=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelCamposTXR&theme=radical)
 
