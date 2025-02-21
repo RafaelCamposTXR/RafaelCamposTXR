@@ -18,5 +18,5 @@ Sou um estudante entusiasta de computação e desenvolvimento de software com ex
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical)
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=true)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaelCamposTXR&theme=radical&no-frame=true)
 
