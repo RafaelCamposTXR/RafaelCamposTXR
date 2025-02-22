@@ -11,7 +11,7 @@
 ### 🌱 Interesse em:
 - Desenvolvimento Full-Stack
 - Inteligência Artificial e Machine Learning
-- Automação de processos
+- .NET | Node.Js | React | Angular | Blazor | Vue |Postgres | Redis | Graphana | Prometheus | Datadog
 ---
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical&langs_count=10)
