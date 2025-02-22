@@ -1,4 +1,4 @@
-## 🎯 Engenheiro de Software Full-Stack | 🤖 IA & Engenharia de Prompt | 🎓 Estudante de Engenharia de Computação
+## 🎯 Boas Vindas ao meu Github!
 
 ### 🚀 Projetos atuais:
 - 📚 Aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
