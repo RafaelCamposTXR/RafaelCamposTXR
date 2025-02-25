@@ -1,7 +1,7 @@
 ## 🎯 Boas Vindas ao meu Github!
 
-### 🚀 Projetos atuais:
-- 📚 Aplicações **full-stack**, focando em **escalabilidade**, **coerência**, **performance** e **boas práticas de design de software**.   
+### 🚀 Onde estou focando atualmente:
+- 📚 Projetando aplicações **full-stack**, focando em **escalabilidade**, **isolamento de responsabilidades**, **desacoplamento**, **coerência**, **performance** e **boas práticas de design de software**.   
 - 🔬 Pesquisando e experimentando com **inteligência artificial**, com uma Iniciação Científica concluída em Explicabilidade de Redes Neurais.  
 ---
 
@@ -11,7 +11,8 @@
 ### 🌱 Interesse em:
 - Desenvolvimento Full-Stack
 - Inteligência Artificial e Machine Learning
-- .NET | Node.Js | React | Angular | Blazor | Vue |Postgres | Redis | Graphana | Prometheus | Datadog
+- Sistemas Operacionais
+- Análise de Dados
 ---
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCamposTXR&layout=compact&theme=radical&langs_count=10)
